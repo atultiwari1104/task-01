@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.box{
+    box-sizing:border-box;
+    margin: 10% 25% 10% 25%;
+    width:30vw;
+    height:60vh;
+}
+.spaceimg{
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 1vb black;
+    
+}
+.btn{
+    width: 30vw;
+    height: 10vmin;
+    font-size: 4vmin;
+    display:block;
+    color: aquamarine;
+    background-image: linear-gradient(to right ,rgb(87, 179, 87),rgb(245, 96, 96));
+    border: none;
+    }

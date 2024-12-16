@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+   
+   
+}
+body{
+    background-color: antiquewhite;
+}
+.form-container form{
+    width: 300px;
+    border: 2px solid red;
+    padding: 50px;
+    align-items: center;
+    background-color: rgb(226, 137, 21);
+}

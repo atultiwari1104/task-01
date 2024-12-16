@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(255, 68, 0, 0.799);
+}
+header{
+    color: blue;
+}
+.blue{
+    background-color: rgb(7, 248, 7);
+    color: blue;
+   
+}
+.red{
+    color: rgba(0, 0, 255, 0.623);
+}
+p{
+  color: white;
+}
+p2{
+    color: gold;
+}
+p3
+{
+    color: white;
+}
+ul :hover{
+ color: brown;    
+}
+div{
+    color: brown;
+}
